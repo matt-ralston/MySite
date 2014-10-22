@@ -7,7 +7,7 @@ html {
 }
 
 body {
-	color: white;
+	color: #fff;
   position: relative;
   height: 100%;
   width: 100%;
@@ -27,6 +27,15 @@ header {
     color: #fff;
     text-decoration: none;
 }
+
+#about {
+    font-size: 2em;
+    font-weight: 600 !important;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #fff;
+    text-decoration: none;
+}
+
 section {
   text-align: center;
   position: relative;
